@@ -1,0 +1,15 @@
+.heading {
+    background-color: rgb(9, 9, 188);
+    color: white;
+    z-index: 0;
+    height: 120px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
